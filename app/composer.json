@@ -1,0 +1,10 @@
+{
+    "require": {
+        "twig/twig": "*",
+        "twig/intl-extra": "^3.10"
+    },
+
+    "autoload": {
+        "psr-4": {"Signature\\": "src/"}
+    }
+}

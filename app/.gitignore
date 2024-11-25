@@ -1,0 +1,4 @@
+/.composer
+/vendor
+.bash_history
+.vscode/launch.json
