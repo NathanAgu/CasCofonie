@@ -1,5 +1,11 @@
 create database cascofonie;
 
+DROP TABLE texts
+DROP TABLE articles
+DROP TABLE amendments
+DROP TABLE roles
+DROP TABLE users
+
 -- TABLE : TEXTS ---------------------------------------------------------
 
 CREATE TABLE cascofonie.texts (
